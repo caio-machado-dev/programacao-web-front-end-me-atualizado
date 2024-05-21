@@ -1,0 +1,854 @@
+body {
+    background-color: #141414;
+}
+
+.caio-machado {
+    background-color: #141414;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .caio-machado .div {
+    background-color: #141414;
+    overflow: hidden;
+    width: 1440px;
+    height: 6144px;
+    position: relative;
+  }
+  
+  .caio-machado .formao-academica {
+    width: 144px;
+    height: 1024px;
+    top: 2048px;
+    background-color: #141414;
+    position: absolute;
+    left: 0;
+  }
+  
+  .caio-machado .text-wrapper {
+    position: absolute;
+    top: 907px;
+    left: 60px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .caio-machado .line {
+    position: absolute;
+    width: 5px;
+    height: 90px;
+    top: 796px;
+    left: 55px;
+  }
+  
+  .caio-machado .overlap-group {
+    position: absolute;
+    width: 998px;
+    height: 96px;
+    top: 60px;
+    left: 66px;
+  }
+  
+  .caio-machado .text-wrapper-2 {
+    width: 998px;
+    top: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    left: 0;
+  }
+  
+  .caio-machado .ensino-m-dio {
+    top: 556px;
+    position: absolute;
+    width: 559px;
+    left: 142px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-3 {
+    top: 369px;
+    position: absolute;
+    width: 559px;
+    left: 142px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .p {
+    position: absolute;
+    width: 420px;
+    top: 608px;
+    left: 142px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .graduando-em {
+    position: absolute;
+    width: 831px;
+    top: 445px;
+    left: 142px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .vector {
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    top: 95px;
+    left: 1317px;
+  }
+  
+  .caio-machado .sobre-mim {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 1024px;
+    left: 0;
+    background-color: #141414;
+  }
+  
+  .caio-machado .text-wrapper-4 {
+    position: absolute;
+    width: 559px;
+    top: 173px;
+    left: 80px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-5 {
+    position: absolute;
+    width: 189px;
+    top: 370px;
+    left: 159px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-6 {
+    position: absolute;
+    width: 573px;
+    top: 60px;
+    left: 66px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .caio-machado .text-wrapper-7 {
+    position: absolute;
+    width: 656px;
+    top: 432px;
+    left: 159px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .ellipse {
+    position: absolute;
+    width: 451px;
+    height: 553px;
+    top: 284px;
+    left: 895px;
+    object-fit: cover;
+  }
+  
+  .caio-machado .introduo {
+    background-image: url(/assets/images/image-fundo.png) ;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    background-color: #141414;
+  }
+  
+  .caio-machado .text-wrapper-8 {
+    position: absolute;
+    width: 513px;
+    top: 173px;
+    left: 80px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-9 {
+    top: 893px;
+    left: 1263px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .caio-machado .img {
+    position: absolute;
+    width: 5px;
+    height: 90px;
+    top: 789px;
+    left: 1294px;
+  }
+  
+  .caio-machado .desktop {
+    top: 3072px;
+    left: -19px;
+    overflow: hidden;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    background-color: #141414;
+  }
+  
+  .caio-machado .experi-ncia {
+    position: absolute;
+    width: 486px;
+    top: 395px;
+    left: 101px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .overlap {
+    position: absolute;
+    width: 8px;
+    height: 350px;
+    top: 192px;
+    left: 672px;
+    background-image: url(./img/line-9.svg);
+    background-size: 100% 100%;
+  }
+  
+  .caio-machado .line-2 {
+    position: absolute;
+    width: 8px;
+    height: 350px;
+    top: 0;
+    left: 0;
+  }
+  
+  .caio-machado .line-3 {
+    position: absolute;
+    width: 8px;
+    height: 319px;
+    top: 610px;
+    left: 672px;
+  }
+  
+  .caio-machado .text-wrapper-10 {
+    width: 559px;
+    top: 148px;
+    left: 720px;
+    color: #57ffdc;
+    font-size: 37px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-11 {
+    position: absolute;
+    width: 689px;
+    top: 552px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-12 {
+    position: absolute;
+    width: 559px;
+    top: 275px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-13 {
+    position: absolute;
+    width: 559px;
+    top: 693px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-14 {
+    position: absolute;
+    width: 831px;
+    top: 227px;
+    left: 742px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-15 {
+    position: absolute;
+    width: 831px;
+    top: 631px;
+    left: 742px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-16 {
+    width: 637px;
+    top: 376px;
+    left: 732px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: justify;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-17 {
+    position: absolute;
+    width: 637px;
+    top: 745px;
+    left: 732px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .vector-2 {
+    top: 561px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 661px;
+  }
+  
+  .caio-machado .vector-3 {
+    top: 155px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 661px;
+  }
+  
+  .caio-machado .desktop-2 {
+    top: 4096px;
+    left: 0;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    background-color: #141414;
+  }
+  
+  .caio-machado .overlap-2 {
+    position: absolute;
+    width: 486px;
+    height: 193px;
+    top: 395px;
+    left: 101px;
+  }
+  
+  .caio-machado .habilidades-t-cnicas {
+    position: absolute;
+    width: 486px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .overlap-3 {
+    position: absolute;
+    width: 30px;
+    height: 837px;
+    top: 93px;
+    left: 643px;
+  }
+  
+  .caio-machado .line-4 {
+    position: absolute;
+    width: 8px;
+    height: 837px;
+    top: 0;
+    left: 11px;
+  }
+  
+  .caio-machado .ellipse-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 116px;
+    left: 0;
+  }
+  
+  .caio-machado .ellipse-3 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 314px;
+    left: 0;
+    background-color: #0097ee;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-4 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 508px;
+    left: 0;
+    background-color: #0097ee;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-5 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 702px;
+    left: 0;
+    background-color: #0097ee;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-6 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 23px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-7 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 215px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-8 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 411px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .ellipse-9 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 605px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+  .caio-machado .text-wrapper-18 {
+    position: absolute;
+    width: 559px;
+    top: 109px;
+    left: 710px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-19 {
+    position: absolute;
+    width: 559px;
+    top: 206px;
+    left: 710px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .overlap-4 {
+    position: absolute;
+    width: 559px;
+    height: 45px;
+    top: 303px;
+    left: 720px;
+  }
+  
+  .caio-machado .text-wrapper-20 {
+    position: absolute;
+    width: 559px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-21 {
+    position: absolute;
+    width: 559px;
+    top: 400px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .javascript-nodejs {
+    position: absolute;
+    width: 559px;
+    top: 497px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-22 {
+    position: absolute;
+    width: 559px;
+    top: 594px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .overlap-5 {
+    position: absolute;
+    width: 559px;
+    height: 45px;
+    top: 691px;
+    left: 720px;
+  }
+  
+  .caio-machado .text-wrapper-23 {
+    position: absolute;
+    width: 559px;
+    top: 788px;
+    left: 720px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .desktop-3 {
+    top: 5120px;
+    left: 0;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    background-color: #141414;
+  }
+  
+  .caio-machado .line-5 {
+    position: absolute;
+    width: 5px;
+    height: 90px;
+    top: 782px;
+    left: 76px;
+  }
+  
+  .caio-machado .text-wrapper-24 {
+    top: 917px;
+    left: 81px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .caio-machado .text-wrapper-25 {
+    position: absolute;
+    width: 486px;
+    top: 395px;
+    left: 101px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .caio-machado .envelope-simple-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 296px;
+    left: 739px;
+    background-color: #57ffdc;
+    border-radius: 50px;
+  }
+  
+  .caio-machado .img-2 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 34px;
+    left: 34px;
+  }
+  
+  .caio-machado .linkedin-logo-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 652px;
+    left: 739px;
+    background-color: #57ffdc;
+    border-radius: 50px;
+  }
+  
+  .caio-machado .github-logo-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 830px;
+    left: 739px;
+    background-color: #0097ee;
+    border-radius: 50px;
+  }
+  
+  .caio-machado .phone-wrapper {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 474px;
+    left: 739px;
+    background-color: #0097ee;
+    border-radius: 50px;
+  }
+  
+  .caio-machado .text-wrapper-26 {
+    position: absolute;
+    width: 390px;
+    top: 355px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-27 {
+    position: absolute;
+    width: 390px;
+    top: 534px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-28 {
+    position: absolute;
+    width: 450px;
+    top: 716px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-29 {
+    position: absolute;
+    width: 450px;
+    top: 893px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-30 {
+    position: absolute;
+    width: 559px;
+    top: 295px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-31 {
+    position: absolute;
+    width: 559px;
+    top: 474px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-32 {
+    position: absolute;
+    width: 559px;
+    top: 656px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .caio-machado .text-wrapper-33 {
+    position: absolute;
+    width: 559px;
+    top: 835px;
+    left: 868px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #57ffdc;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
