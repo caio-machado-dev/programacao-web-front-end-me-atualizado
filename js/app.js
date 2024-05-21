@@ -1,5 +1,8 @@
 function  confirmacao(){
-    alert("Formulário enviado com sucesso!!");
+
+    addEventListener('submit', function(){
+        alert("Formulário enviado com sucesso!!");
+    });
 }
 
 confirmacao()
